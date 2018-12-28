@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body1{height:100px;
+       background:#3C6;
+	   padding:0px;
+	   
+}
+
+
+.body2{height:500px;
+       background-color:#FFF;
+	   padding-left:450px;
+	   padding-top:10px;
+}
+
+.body3{height:100px;
+       background-color:#096;
+	    padding:0px;
+}
+
+#ee {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+	position:absolute;
+	top:420px;
+	left:570px;
+}
+	 
+#ee:hover {
+    background-color:#F00;
+    color: white;
+}
+	 
+
+#circle {
+	width: 350px;
+	height: 350px;
+	background:#0F0;
+	-moz-border-radius:200px;
+	-webkit-border-radius:200px;
+	border-radius:200px;
+}
+	 
+#circle1 {
+	width: 290px;
+	height: 290px;
+	background:#6FF;
+	border-radius:200px;
+	position:absolute;
+	top:8%;
+	left:35.5%;
+}
+		 
+#circle2 {
+	width: 200px;
+	height: 200px;
+	background:#FFF;
+	border-radius:200px;
+	position:absolute;
+	top:17%;
+	left:39%;
+	overflow:hidden;
+	
+	
+}	 
+
+#aa{position:absolute;
+    top:0px;
+	left:110px;}
+	
+#ab{position:absolute;
+    top:10px;
+	left:163px;
+	transform:rotate(45deg);}
+
+#ac{position:absolute;
+    top:23px;
+	left:199px;
+	transform:rotate(40deg);}
+
+#ad{position:absolute;
+    top:68px;
+	left:235px;
+	transform:rotate(90deg);}
+
+#ae{position:absolute;
+    top:108px;
+	left:245px;
+	transform:rotate(93deg);}
+
+#af{position:absolute;
+    top:165px;
+	left:238px;
+	transform:rotate(150deg);}
+	
+#ag{position:absolute;
+    top:198px;
+	left:219px;
+	transform:rotate(142deg);}
+#ah{position:absolute;
+    top:229px;
+	left:186px;
+	transform:rotate(180deg);}
+
+#ai{position:absolute;
+    top:242px;
+	left:142px;
+	transform:rotate(176deg);}
+
+#aj{position:absolute;
+    top:242px;
+	left:95px;
+	transform:rotate(224deg);}
+
+#ak{position:absolute;
+    top:218px;
+	left:46px;
+	transform:rotate(230deg);}
+
+#al{position:absolute;
+    top:184px;
+	left:21px;
+	transform:rotate(271deg);}
+
+#am{position:absolute;
+    top:135px;
+	left:-2px;
+	transform:rotate(273deg);}
+
+#an{position:absolute;
+    top:87px;
+	left:11px;
+	transform:rotate(323deg);}
+	
+#ao{position:absolute;
+    top:40px;
+	left:26px;
+	transform:rotate(323deg);}
+	
+#ap{position:absolute;
+    top:15px;
+	left:73px;
+	transform:rotate(361deg);}	
+	
+	
+	
+	
+	
+	
+	
+
